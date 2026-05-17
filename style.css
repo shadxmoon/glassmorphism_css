@@ -58,7 +58,7 @@ body{
 
 .description li::before{
     content: " ★ ";
-    color:#6ee7b7;
+    color:#a5ffd5;
 }
 
 .description li {
@@ -74,12 +74,11 @@ body{
     background: rgba(0,0,0,0.3);
     padding: 12px 14px;
     border-radius: 6px;
-    font-size: 12px;
-    margin: 8px 0;
-    color: #a0f0c8;
+    font-size: 18px;
+    margin: 6px 0;
+    color:#a5ffd5;
     font-family: 'Monaco', 'Courier New', monospace;
-    overflow-x: auto;
-    border-left: 3px solid #6ee7b7;
+    border-left: 3px solid #a5ffd5;
 }
 h1{
     color: white;
